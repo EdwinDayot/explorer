@@ -1,0 +1,21 @@
+body {
+    overflow-x: hidden;
+}
+
+.container {
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+#server {
+    right: -100%;
+}
+
+#session {
+    right: -200%;
+}
+
+#cookie {
+    right: -300%;
+}
